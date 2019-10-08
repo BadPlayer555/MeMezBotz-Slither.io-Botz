@@ -19,3 +19,6 @@ IMPORTANT:
  CREDIT:
 - Mat2095
 - Mr Trap.js
+
+# Video Proof
+https://www.youtube.com/watch?v=1_VzrOyq0dU
